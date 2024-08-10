@@ -82,4 +82,4 @@ async def predict(ctx):
 
 
 
-bot.run("MTI2OTI3OTA2MjIwODE1MTU4Mw.GwFRxf.aMqNUZmxZLjArT3UM1LO6i6Nn2MvwGiRpTGGHw")
+bot.run("")
